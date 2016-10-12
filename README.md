@@ -1,2 +1,2 @@
 # Test-HLFOCG
-Higher Life Foundations Online Career Guidence Test Project.
+HigherLife Foundations Online Career Guidence Test Project.
